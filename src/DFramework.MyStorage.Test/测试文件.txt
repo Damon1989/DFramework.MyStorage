@@ -1,0 +1,219 @@
+﻿2019/5/7 15:43:52--61.172.247.132--rydj_pd458---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:43:52--61.172.247.132--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:43:52--124.112.207.110--Freyafulei---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+
+
+2019/5/7 15:43:52--124.112.207.110--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:44:08--125.125.39.129--XSC111---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+
+
+
+
+
+
+
+
+
+
+2019/5/7 15:44:08--125.125.39.129--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+
+
+
+2019/5/7 15:44:32--124.112.207.110--XSC111---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:44:32--124.112.207.110--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:47:54--101.93.71.177--rydj_pdyx2---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:47:54--101.93.71.177--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:48:43--114.82.180.144--zl95890979---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:48:43--114.82.180.144--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:48:54--114.82.180.144--zl95890979---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:48:54--114.82.180.144--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:49:02--61.172.247.132--rydj_pd458---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:49:02--61.172.247.132--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:49:09--114.82.180.144--zl95890979---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:49:09--114.82.180.144--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:49:25--114.82.180.144--zl95890979---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:49:25--114.82.180.144--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:49:40--114.82.180.144--zl95890979---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:49:40--114.82.180.144--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:49:46--114.82.180.144--zl95890979---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:49:46--114.82.180.144--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:50:00--114.99.22.229--Sugar315---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:50:00--114.99.22.229--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:50:12--114.82.180.144--zl95890979---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:50:12--114.82.180.144--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:50:36--121.232.148.162--tangxinyan123---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:50:36--121.232.148.162--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:50:54--180.170.122.37--rydj_pd4---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:50:54--180.170.122.37--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:50:59--183.148.134.45--jtsymiaolongjuan---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:50:59--183.148.134.45--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:51:15--123.169.34.51--tangxinyan123---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:51:15--123.169.34.51--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:51:36--125.119.194.8--xv_lin---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:51:36--125.119.194.8--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:51:37--60.182.184.94--jtsymiaolongjuan---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:51:37--60.182.184.94--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:51:49--117.64.224.196--jtsymiaolongjuan---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:51:49--117.64.224.196--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:51:59--117.80.190.143--gushenghan---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:51:59--117.80.190.143--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:52:13--125.123.211.241--gushenghan---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:52:13--125.123.211.241--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:53:03--61.172.251.120--rydj_pdjyh---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:53:03--61.172.251.120--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:53:03--182.38.75.67--qqwdyy---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:53:03--182.38.75.67--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:53:11--61.172.251.120--rydj_pdjyh---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:53:11--61.172.251.120--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:53:22--114.226.163.97--anguofan0922---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:53:22--114.226.163.97--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:53:44--106.57.150.238--anguofan0922---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:53:44--106.57.150.238--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:54:12--119.5.72.70--tinatina2015---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:54:12--119.5.72.70--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:55:35--221.234.104.23--shenyan_1989---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:55:35--221.234.104.23--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:55:46--221.234.104.23--kongtianyou---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:55:46--221.234.104.23--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:57:56--223.104.211.207--cyx20121209---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:57:56--223.104.211.207--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:58:31--113.229.123.62--LEIMINGYU---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:58:31--113.229.123.62--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
+2019/5/7 15:58:36--59.51.35.80--maritime2019---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+
+2019/5/7 15:58:36--59.51.35.80--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
+   在 EcoEdu.Framework.AuthWeb.Controllers.AccountController.<Login>d__24.MoveNext()
+
