@@ -1,4 +1,4 @@
-﻿2019/5/7 15:43:52--61.172.247.132--rydj_pd458---   在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
+﻿2019/5/7 15:43:52--61.172.247.132--rydj_pd458--- 111  在 EcoEdu.Framework.Services.Implements.AuthorizationService.Login(String name, String password, String ip)
    在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)
 
 2019/5/7 15:43:52--61.172.247.132--   在 EcoEdu.Framework.AuthWeb.Services.AuthHelper.AuthenticateByWefRedis(LoginViewModel loginModel)

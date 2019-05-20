@@ -71,3 +71,25 @@ DEBUG 2019-05-10 10:46:03,068 [48   ] Abp.Modules.AbpModuleManager             -
 DEBUG 2019-05-10 10:46:03,069 [48   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Abp.BackgroundJobs.BackgroundJobManager
 DEBUG 2019-05-10 10:46:03,070 [48   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Abp.BackgroundJobs.BackgroundJobManager
 DEBUG 2019-05-10 10:46:03,070 [48   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2019-05-20 11:45:23,337 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-05-20 11:45:23,350 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2019-05-20 11:45:23,355 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DFramework.MyStorage.Web.MyStorageWebModule, DFramework.MyStorage.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DFramework.MyStorage.MyStorageDataModule, DFramework.MyStorage.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,358 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,358 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,358 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DFramework.MyStorage.MyStorageCoreModule, DFramework.MyStorage.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,358 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DFramework.MyStorage.MyStorageApplicationModule, DFramework.MyStorage.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,358 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DFramework.MyStorage.MyStorageWebApiModule, DFramework.MyStorage.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,358 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:23,361 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2019-05-20 11:45:23,622 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: DFramework.MyStorage.EntityFramework.MyStorageDbContext, DFramework.MyStorage.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-05-20 11:45:24,949 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-05-20 11:45:25,075 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-05-20 11:45:25,109 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-05-20 11:45:25,111 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyStorage
+DEBUG 2019-05-20 11:45:25,199 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-05-20 11:45:25,219 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'DFramework.MyStorage.FileStorage.IFileAppService' with service name 'app/file'.
