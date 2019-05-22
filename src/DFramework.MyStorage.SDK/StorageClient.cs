@@ -15,13 +15,14 @@ namespace DFramework.MyStorage.SDK
         static string UseUrlForcibly = ConfigurationManager.AppSettings["UseUrlForcibly"];
         static int CacheTime = int.Parse(ConfigurationManager.AppSettings["CacheTime"] ?? "2");
         static ICacheManager _cacheManager = new MemoryCacheManager();
+        private static string _storageApiBaseAddress = ConfigurationManager.AppSettings["storageApiBaseAddress"];
 
-        public StorageClient(string storageApiBaseAddress, int timeout = 3600)
+        public StorageClient(string storageApiBaseAddress="", int timeout = 3600)
         {
             StorageHttpClient = new HttpClient
             {
                 Timeout = new TimeSpan(0, 0, timeout),
-                BaseAddress = new Uri(storageApiBaseAddress)
+                BaseAddress = new Uri(storageApiBaseAddress.Length==0? _storageApiBaseAddress: storageApiBaseAddress)
             };
         }
 
