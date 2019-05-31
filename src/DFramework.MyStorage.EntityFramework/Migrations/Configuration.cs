@@ -21,11 +21,11 @@ namespace DFramework.MyStorage.Migrations
                 Id = Guid.NewGuid().ToString("n"),
                 Name = "server 01",
                 UrlHost = "http://localhost:8080/mystorage/",
-                Config = @"{'RootPath':'storage\\',  'PhysicalHost':'D:\\' }",
+                Config = @"{'RootPath':'storage\\',  'PhysicalHost':'C:\\' }",
                 Capacity = 650000000000,
                 FileSize = 0,
                 FileCount = 0,
-                FullType = "SMBNodeWare.NodeWare, SMBNodeWare",
+                //FullType = "SMBNodeWare.NodeWare, SMBNodeWare",
                 Status = NodeStatus.InUsing
             };
             context.Nodes.Add(node);

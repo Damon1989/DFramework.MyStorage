@@ -41,8 +41,6 @@ namespace DFramework.MyStorage.Web.Controllers
         /// <returns></returns>
         [HttpPost]
         public async Task<JsonResult> Upload(string md5)
-
-
         {
             var apiResult = await _exceptionManager.ProcessAsync(async () =>
             {

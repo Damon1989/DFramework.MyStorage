@@ -57,26 +57,26 @@ namespace DFramework.MyStorage.EntityFramework
         public DbSet<File> Files { get; set; }
     }
 
-    public class MyStorageInitializer : DropCreateDatabaseAlways<MyStorageDbContext>
-    {
-        protected override void Seed(MyStorageDbContext context)
-        {
-            base.Seed(context);
+    //public class MyStorageInitializer : DropCreateDatabaseAlways<MyStorageDbContext>
+    //{
+    //    protected override void Seed(MyStorageDbContext context)
+    //    {
+    //        base.Seed(context);
 
-            var node = new Node
-            {
-                Id = Guid.NewGuid().ToString("n"),
-                Name = "server 01",
-                UrlHost = "http://localhost:8080/mystorage/",
-                Config = @"{'RootPath':'storage\\',  'PhysicalHost':'D:\\' }",
-                Capacity = 650000000000,
-                FileSize = 0,
-                FileCount = 0,
-                //FullType = "SMBNodeWare.NodeWare, SMBNodeWare",
-                Status = NodeStatus.InUsing
-            };
-            context.Nodes.Add(node);
-            context.SaveChanges();
-        }
-    }
+    //        var node = new Node
+    //        {
+    //            Id = Guid.NewGuid().ToString("n"),
+    //            Name = "server 01",
+    //            UrlHost = "http://localhost:8080/mystorage/",
+    //            Config = @"{'RootPath':'storage\\',  'PhysicalHost':'D:\\' }",
+    //            Capacity = 650000000000,
+    //            FileSize = 0,
+    //            FileCount = 0,
+    //            //FullType = "SMBNodeWare.NodeWare, SMBNodeWare",
+    //            Status = NodeStatus.InUsing
+    //        };
+    //        context.Nodes.Add(node);
+    //        context.SaveChanges();
+    //    }
+    //}
 }
